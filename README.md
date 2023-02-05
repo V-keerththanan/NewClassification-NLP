@@ -1,1 +1,1 @@
-# NewClassification-NLP
+# NewsClassification-NLP
